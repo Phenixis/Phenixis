@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the discord bot [Rankore](https://github.com/fulviodenza/rankore)
 - 🌱 I’m currently learning how to build a web app using NextJS
-- 🎯 My goal is to fail 50 times at creating a useful app (to succeed at least once)
+- 🎯 My goal is to fail 50 times at creating a useful app (I'll eventually succeed at least once)
 - ⚡ Fun fact: I love baguette 🇫🇷
 
 <!--
