@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning how to build a web app using NextJS
 - 🎯 My goal is to fail 50 times at creating a useful app (I'll eventually succeed at least once)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=phenixis)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=phenixis&theme=graywhite&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
